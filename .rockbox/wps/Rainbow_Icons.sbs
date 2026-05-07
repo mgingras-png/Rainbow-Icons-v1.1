@@ -1,8 +1,10 @@
 # Theme: Rainbow Macintosh Icons 
-# Version 1.1
-# Last Update: 26 November 2025
+# Version 1.2
+# Updated to current dev build, fixed next track code, repositioned some text and icons, made battery icon sync up with percentage better.
+
+# Last Update: 07 May 2026
 # License: CC-BY-SA 3.0
-# By: Monica G
+# By: Monica G. (@mgingras-png on GitHub)
 # Description: My first theme, based on the macOS Sequoia Susan Kare wallpaper
 # and it attempts to mimic the liquid glass effect seen in macOS Tahoe/iOS 26. 
 # Code based on: iPod reFresh by Ciprian Dragu (based on FreshOS by c-yu (yuuiko)) 
@@ -55,7 +57,7 @@
 %?lh<%t(0.1)%xd(Ba);%t(0.1)%xd(Bb);%t(0.1)%xd(Bc);%t(0.1)%xd(Bd);%t(0.1)%xd(Be);%t(0.1)%xd(Bf)>
 
 # Hold icon
-%Vl(statusbar,60,1,13,15,-)
+%Vl(statusbar,55,1,13,15,-)
 %?mh<%xd(O)|%?mr<%xd(O)>>
 
 # Status title
